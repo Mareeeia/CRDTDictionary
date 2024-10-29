@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LWWHashTableTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-07-19T22:10:37" hostname="Marias-MacBook-Pro.local" time="0.668">
+  <properties/>
+  <testcase name="testMergeWithNoRemoves()" classname="LWWHashTableTest" time="0.643"/>
+  <testcase name="testMergeWithRemoves()" classname="LWWHashTableTest" time="0.003"/>
+  <testcase name="testUpdateWithBias()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testUpdateEmpty()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testAddUniqueEntries()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testUpdateRemovedValues()" classname="LWWHashTableTest" time="0.002"/>
+  <testcase name="testRemoveExistingValues()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testRemoveFromEmptyTable()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testRemoveWithBias()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testRemoveBeforeAdds()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testReAddAnElement()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testUpdateExistingValues()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testAddOverExistingEntries()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testLookupWithRemovedEntries()" classname="LWWHashTableTest" time="0.001"/>
+  <testcase name="testWrongClassThrowsException()" classname="LWWHashTableTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
